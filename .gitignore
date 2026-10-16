@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Meeting data
+data/recordings/
+data/transcripts/
+data/summaries/
+
+# VS Code settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
